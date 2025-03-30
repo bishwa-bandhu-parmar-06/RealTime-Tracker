@@ -83,7 +83,7 @@ const socket = io("https://your-deployed-server.com");
 ```
 
 ### **3️⃣ Open the Web App on Mobile**
-- Open **https://your-deployed-server.com** on your **mobile browser**.
+- Open **[RealTime-Location-Tracker](https://realtime-tracker-wbrt.onrender.com/)** on your **mobile browser**.
 - Allow **location access**.
 - Your location will appear on the map!
 
@@ -98,4 +98,3 @@ This project is **MIT Licensed**.
 Feel free to **fork**, improve, and submit a **pull request**!
 
 🚀 **Happy Coding!** 🎯
-](https://realtime-tracker-wbrt.onrender.com/)
